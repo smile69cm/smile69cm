@@ -1,0 +1,29 @@
+{
+  "instagram_username": "smile_scanner",
+  "instagram_password": "smile12345",
+  "posts": [
+    {
+      "url": "https://www.instagram.com/reel/DKhoJd8zlKV/?igsh=MWs3YTcyNjlvdmI2OQ==",
+      "keywords": [
+        "link",
+        "price",
+        "hi",
+        "hii"
+      ],
+      "message": "Hii what you want why you sended the comment to me y say y",
+      "ig_post_id": "3648373745641214613"
+    },
+    {
+      "url": "https://www.instagram.com/p/DKhve5NTyho/?igsh=MWFkYXllb3JobDdhMA==",
+      "keywords": [
+        "hi"
+      ],
+      "message": "Hii this is gii dkjxjsnsnnf hii.bye",
+      "ig_post_id": "3648406004343711848"
+    }
+  ],
+  "telegram_token": "",
+  "admin_user_id": "",
+  "ip_restricted": false,
+  "last_auth_attempt": 1749658176
+}

@@ -1,0 +1,7 @@
+__pycache__/
+.env
+config.json
+*.session
+replied.json
+main_session.json
+monitor_session.json
